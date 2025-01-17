@@ -1,0 +1,16 @@
+blockquote {
+    display: block;
+  background: #FFFFFF;
+  color: #000;
+  font-size: 16px;
+  font-style: normal;
+  border-radius: 10px;
+  box-shadow: 0px 5px 15px 4px #e7e7e7;
+  border-bottom: 3px solid #f5d020 !important;
+  border-top: 3px solid #f5d020 !important;
+  border-right: 3px solid #f53803 !important;
+  border-left: 3px solid #f53803 !important;
+  padding: 10px 30px 10px 30px;
+  text-align: left;
+  font-weight: 500;
+  line-height: 1.5em;
